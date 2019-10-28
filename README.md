@@ -10,4 +10,4 @@ How to contribute to columbia-dsi.github.io:
 3. Merge and Navigate via https://columbia-dsi.github.io/DSI/fileName
 
 ## Test:
-https://columbia-dsi.github.io/edav_solution_test
+https://columbia-dsi.github.io/edav_test
