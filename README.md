@@ -5,6 +5,9 @@
 How to contribute to columbia-dsi.github.io:
 
 0. Clone this repo
-1. Submit your file (CourseName_UNI_HW#_Version#.FileFormat)
+1. Submit your file (CourseName_UNI_HW#_Version#.FileFormat) 
 2. Send PR
 3. Merge and Navigate via https://columbia-dsi.github.io/DSI/fileName
+
+## Test:
+https://columbia-dsi.github.io/edav_solution_test
