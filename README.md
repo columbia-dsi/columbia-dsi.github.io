@@ -11,3 +11,4 @@ How to contribute to columbia-dsi.github.io:
 
 ## Test:
 https://columbia-dsi.github.io/edav_test
+https://columbia-dsi.github.io/flowers_deeplearning_model
