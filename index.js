@@ -1,9 +1,17 @@
+// CLASSES = {
+//   0: 'daisy',
+//   1: 'dandelion',
+//   2: 'roses',
+//   3: 'sunflowers',
+//   4: 'tulips',
+// };
+
 CLASSES = {
-  0: 'daisy',
-  1: 'dandelion',
-  2: 'roses',
-  3: 'sunflowers',
-  4: 'tulips',
+  0: 'shirt',
+  1: 'shoe',
+  2: 'dress',
+  3: 'Trouser',
+  4: 'bag',
 };
 
 const MODEL_PATH =
